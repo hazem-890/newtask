@@ -93,7 +93,7 @@ while (alwayson)
 
             }
 
-            Console.WriteLine($"The smallest number is" + largest);
+            Console.WriteLine($"The largest number is" + largest);
 
 
         }
